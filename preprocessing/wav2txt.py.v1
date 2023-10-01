@@ -1,0 +1,106 @@
+from multiprocessing.pool import ThreadPool
+from load_whisper import load_model
+from nltk.corpus import cmudict
+from tqdm import tqdm
+from config import *
+import itertools
+import random
+import typing
+import os, re
+
+D = cmudict.dict()
+
+def load_batch(root: str, files: list[str], model: typing.Callable, batch_size: int=1024) -> typing.Generator:
+    text_list = []
+    
+    t = tqdm(range(batch_size), 'load batch')
+    while len(files):        
+        file = files.pop(0)
+        
+        if file.split('.')[-1].lower() in ('wav', 'm4a', 'mp3'):
+            text = load_text(root, file, model)
+        else:
+            continue
+            
+        if text is not None:
+            text_list.append((text, file))
+            t.update()
+        
+        if len(text_list) == batch_size:
+            yield batch_transform(text_list)
+            t = tqdm(range(min(batch_size, len(files))), 'load batch')
+            text_list = []
+    
+    if len(text_list):
+        yield batch_transform(text_list)
+
+def load_text(root: str, file: str, model: typing.Callable) -> str:
+    audio = os.path.join(root, file)
+    
+    try:
+        text = model(audio)
+    except RuntimeError:
+        return
+    
+    if len(text) < 1: # or len(text) > 100:
+        return
+    
+    return text
+
+def text_transform(text: str, file: str, t: tqdm) -> list[str]:
+    word_list = re.findall(r'[a-z]{2,}', text.lower())
+    if len(word_list) == 0:
+        return
+    
+    results = []
+    for word in word_list:
+        try:
+            results.append(D[word.lower()])
+        except KeyError:
+            results.append([[word.upper()]])
+    
+    results = itertools.product(*results)
+    
+    results = list(
+        ' '.join([j for i in result for j in i]) + '|' + file + '\n' 
+        for result in results)
+    
+    if len(results) > 10:
+        results = random.sample(results, 10)
+    
+    t.update()
+    
+    return results
+
+def batch_transform(texts: list[str]) -> list[str]:
+    with ThreadPool(processes=12) as pool:
+        t = tqdm(texts, 'transform')
+        threads = []
+        for text, file in texts:
+            threads.append(pool.apply_async(text_transform, (text, file, t)))
+        
+        pool.close()
+        pool.join()
+    
+    result = []
+    for i in threads:
+        if i.get() is not None:
+            result += i.get()
+    return result
+
+def file2txt(root: str, files: list[str], model: typing.Callable, model_name: str) -> None:
+    target = os.path.join(root, 'transcribed_eng_%s.txt' % model_name)
+    
+    if 'Split_WAV' in root and not 'useless' in root:
+        with open(target, 'w', encoding='utf-8') as f:
+            for batch in load_batch(root, files, model):
+                f.write(''.join(batch))
+
+def main(root: str, model: typing.Callable, model_name: str) -> None:
+    for root, _, files in os.walk(root):
+        file2txt(root, files, model, model_name)
+
+if __name__ == '__main__':
+    for name in ('tiny', 'base', 'small'): # , 'medium', 'large-v1', 'large-v2'):
+        model = load_model(name)
+        main('datasets\\ximalaya', model, name)

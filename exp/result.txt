@@ -1,0 +1,976 @@
+000 yao bei wen zi lou hao
+    yi ban bu shi hen hao
+    一般不是很好!
+    一般，不是很好。
+001 shi zhang xi shang a nong hou
+    ti zhang xian sheng a ni hao
+    是张先生啊,你好!
+    是张先生啊，你好！
+002 wu lei nai jiao guai sen guang liao
+    wo lai le hao zhang shi jian liao
+    我到了好长时间了!
+    我来了好长时间了。
+003 ji nian nin zu sha zi ti xia
+    zhe xie ren shi gan ma de
+    这些认识干吗呢
+    这些人是干嘛的？
+004 jing meng ge wei nv shi ti sa nin
+    qing wen zhei wei n ⁇  shi ti shui
+    请问这有女朋友是谁。
+    请问，这位女士是谁？
+005 de wu bang na wo li xiang men hou
+    qing dai wo xiang ni quan jia bu hao
+    请让我想你全家不好
+    请代我向你全家问好。
+006 ding kai fa liang le xiong bang wu lei ke kui hao ba
+    ding bu liang le ni bang wo kan kan hao ma
+    定不凉了 你帮我看看好吗?
+    灯不亮了，你帮我看看好吗？
+007 wo shui zhong wei dao ai mi qu dang yin kuai zou
+    wo cai cong wei dao na bian qu kan kan
+    我猜到那边去看看
+    赶快到那边去看看，快走！
+008 ga ju qu dai tao duo qu liao wo li xiang wen nin di le
+    zhe me gui ta gui le
+    这么贵?
+    这么贵，太贵了！
+009 e lai you zai kou zi ge qiao qi lai ling dou dou xiang pen pen
+    wo men wei kao ru ge chi shang qu you nen you xiang
+    我们有考入如何去,有嫩油香
+    我们有烤乳鸽，吃上去又嫩又香。
+010 yao bei wen zi lou hao
+    yi ban bu shi hen hao
+    一般不是很好
+    一般，不是很好。
+011 shi zhang xi chang a nong hou
+    ti zhang xian sheng a ni hao
+    是张先生啊!你好。
+    是张先生啊，你好！
+012 mu lei nai jiao guai sen guang liao
+    wo lai liao hao zhang shi jian liao
+    我来了好长时间了!
+    我来了好长时间了。
+013 gei ning nin zu sha zi ti xia
+    zhe ge ren ti gan ma di
+    这个人是很好的?
+    这些人是干嘛的？
+014 qing meng ge wei nv shi ti sa nin
+    qing wen zhei wei n ⁇  shi ti shui
+    请问?。
+    请问，这位女士是谁？
+015 de wu bang na wo wei xiang men hou
+    qing dai wo xiang ni quan jia xiang hao
+    请带我想你全家想好
+    请代我向你全家问好。
+016 ding kai fa liang le nai bang wu lei ke kui hao ba
+    deng fa liang liao ni bang wo kan kan hao ma
+    等发亮了 你帮我看看好吗
+    灯不亮了，你帮我看看好吗？
+017 wo shui zhong yu dao ai mi qu dang yi kuai zou
+    wo cai dao jia huan qi huan nuo yi ju gan jue
+    我猜到家,换期换掉一句话感觉
+    赶快到那边去看看，快走！
+018 ga ju qu dai tao duo ju le wo li xiang wen nin di liao
+    zhe me gui tai gui le bu neng ti shei de
+    这么柜台了,不能是谁的!
+    这么贵，太贵了！
+019 e lai yao zai kou zi ge qiao qi lai leng dou dou xiang pen pen
+    wo men wei kao ru ge chi shang qu you nen you xiang
+    我们有考入歌,吃上去有嫩油香。
+    我们有烤乳鸽，吃上去又嫩又香。
+020 nei ge ji wang zi suo xiang kou pa hou
+    ni men na ge fang zi chao xiang hao bu hao
+    你们那个房子方向好不好
+    你们那间房子朝向好不好？
+021 a la he di you qia bi shai ming bi ding ji yi ben tong neng wei wo ji ye ben tong
+    wo men zhei wei wai bi ren min bi ding qi yi dian
+    我们有外比人民币定期一点。
+    我们这有外币人民币定期一本通，也有活期一本通。
+022 xiang hei nin jie hun wei e ning ga jiu ti rang mi bei de lao du
+    chuang shang hai ren jie hun you de ren jia ban jiu yan chang mian hen da
+    床上还不结婚,又的人加了,就延长面很大。
+    上海人结婚，有的人家办酒宴场面很大。
+023 nong ai qi sang bei pa
+    ni hai sheng qi shang ban ma
+    你还生气上班吗?
+    你还去上班吗？
+024 you ji wei wo xia long na ning di
+    you ji hui wo xie ni ni ren shi di
+    有机会,我是你认识的。
+    有机会我介绍你认识他们。
+025 luo zhang shang guang wo men xia xing ben neng le
+    hao zhang shi jian wo ying gai ji ni le
+    好长时间我喜欢你了!
+    好久没有给你写信了。
+026 he zi yi xia xing ming tuo de mo
+    zhe shi tuo de xin ming he dian hua
+    这是他的手名和电话
+    这是他的姓名和电话。
+027 e dao dei le sha ya
+    e dao le sha a e
+    都到了啥啊!
+    哦，知道了。谢谢！
+028 nong rong guang zhe li wa
+    ni ti cong guang zhou lai de ma
+    你尝尝他做的点心再走吧。
+    你是从广州来的吗？
+029 hao e ken ding lao you yi jin e
+    hao de ken ding hen you yi si jing
+    好的肯定很有意思。
+    好哇，那一定很有意思。
+030 qing man zi min yang se piao ci liao
+    qing ba ti min hang shu piao chu ma
+    请把一个航书票出吗?
+    请问是民航售票处吗？
+031 lao zi si lei du an le
+    lao shi lai duo bie nao le
+    老师给了你一本很厚的书吧。
+    不是， 是来度假的。
+032 qi neng zeng qie di xia piao ju
+    qing zheng que tian xie piao ju
+    请正确填写票据。
+    请正确填写票据。
+033 wu xiang qi yin li lian
+    wo xiang qu yin wei li
+    我想去阴历。
+    我想去找李立。
+034 a la lei la sa di fang jiu
+    wo men zai shen me di fang ji he jiu
+    我们在什么地方给。
+    我们在什么地方集合？
+035 wu ne lao sui chang shei gui rang liao
+    wo pa lu shan zai gan ma shang lai
+    我把路上在干嘛上来
+    我把六扇窗都关上了。
+036 nong wei yuan lai le cang gang du
+    ni bie zhuang long zuo
+    你别吐龙座
+    你别装聋作哑！
+037 liao liang ni ji que gu ye tang
+    liang ning qian qi guo yi ci
+    两年前星期过一次。
+    两年前吃过一次。
+038 xi kua kai le po bei lu qin le zhei zhen
+    xi kuai kai le xia ban da rao liao cha
+    洗快到了下班打扰了!
+    水快开了，喝了茶再走。
+039 wa hei luo shang pin guo yao ji wei you hai bo de se
+    huai hai lu shang pin gao ya jian wei wei you hai bai te se
+    淮海路上频高压,见有有还有海白色
+    淮海路的商品高雅前卫，有海派特色。
+040 luo di dang zhong ga sai le pu bu le wu po lou di nv feng guang de ding
+    l ⁇  di wei xia shan pu bu bo wo hu tian wan feng guang deng
+    a。
+    绿地有假山、瀑布、湖泊和田园风光等。
+041 ke zong yang zi bi gan zi ne you de ma e
+    zhe chong yang zhao di qian mei you tai duo ma
+    这是这样照的钱没有太多吗?
+    这种样式的钱包你们有卖吗？
+042 hao e nong nai qiao liao
+    hao di ni bie ye jiu le
+    好的,你别说了。
+    好吧，拿去吧。
+043 yi bei wa zi luo hou
+    yi ban bu shi hen hao
+    一般不是很好。
+    一般，不是很好。
+044 zi zhang xin shang a nong huo
+    ti zhang xian sheng de hen hao
+    是张先生的很好!
+    是张先生啊，你好！
+045 wu lei liao jiu gui leng guang liao
+    he lan jue de hen bu shi hou jie
+    嘿嘿,觉得很什么时候接
+    我来了好长时间了。
+046 gen nan sheng ju sha zi qu ni
+    zhe xie shi shei de cai ne
+    这些是谁的菜呢?
+    这些人是干嘛的？
+047 qing meng ge wei ru ri zi sa reng
+    qing wen zhei wei n ⁇  shi shen me se
+    请问?。
+    请问，这位女士是谁？
+048 dei mu bang di wu li xiang meng he
+    dui wo ji jie dian li ming bai
+    对我季节店里明白
+    请代我向你全家问好。
+049 deng ta wan liang le neng bang wo lai ke kui hao ba
+    deng me liang liao ni bang wo kan kan hao ma
+    等你凉了 你帮我看看好吗
+    灯不亮了，你帮我看看好吗？
+050 ou zhou zhong lei dong ai mi qu dang ting kua ze
+    ming tian zhong wu ni qu kan kan kuai zou
+    明天中午你去看看会走!
+    赶快到那边去看看，快走！
+051 ga ju e ju liao ai jie wu du ju le you li xiang e ba ning de liao
+    zhe me gui ta gui le
+    这么贵?
+    这么贵，太贵了！
+052 a la wei jiao kou zi ge qia qi lai leng de duo xiang pen pen
+    wo men wei kao ru ge chi shang qu you nen you xiang
+    我们是在车站买的车票。。
+    我们有烤乳鸽，吃上去又嫩又香。
+053 gan ma de gei wang zi rou xiang hou pa gong
+    ni men nei ge fang zi chao xiang hao bu hao
+    你们哪个房子抄想好不好
+    你们那间房子朝向好不好？
+054 a la ga dan wei ma bi sen ming de ding ji fen tong a yu wo ji yi beng tong
+    wo men zhei wei wai bi ren min yin ding qi yi ben tong
+    我们自为之人民币,人民特器一本通
+    我们这有外币人民币定期一本通，也有活期一本通。
+055 shang hei ning zhe hun yu e ning ga jiu ti chang mi bei le lao dou
+    shang hai ren zhu hun you de ren jia ban jiu yan chang mian hen tai
+    上海来婚友的人家班就延长,面积很态。
+    上海人结婚，有的人家办酒宴场面很大。
+056 nong ei qi cang bei pa
+    ni hai qu shang ban ma
+    你就去上班吗?
+    你还去上班吗？
+057 you ji li mu lu luo ge men ning de
+    you ji hui di hen duo fu ren
+    有没有多,很幸福!
+    有机会我介绍你认识他们。
+058 luo zhang zong guang ma xia xin nuo nong liao
+    hao zhang shi jian mei di xin gei ni liao
+    好长时间没的心给你了
+    好久没有给你写信了。
+059 ke zi yi na xing ming de li wu
+    zhe shi tuo de xing ming he dian hua
+    这是我的姓名和电话。
+    这是他的姓名和电话。
+060 o xue dao le xia xia
+    o zhi dao le xie
+    哦,知道了,谢谢
+    哦，知道了。谢谢！
+061 nong ri zong guang zhou lai xuan wa
+    ni shi cong guang zhou lai de ma
+    你是从广场来的吗?
+    你是从广州来的吗？
+062 hao ma kang lin luo wei jing e
+    hao de wo shui ding hen fan xin
+    好的我也很烦心
+    好哇，那一定很有意思。
+063 jing meng zi min gang shou piao qi jue
+    qing wen ti min hang shou piao chu ma
+    请问几行收票出吗?
+    请问是民航售票处吗？
+064 wa si na zhi lai zhe gang a
+    bu shi lai du jia di
+    不是来都好的。
+    不是， 是来度假的。
+065 qin dong zeng che di xia piao ju
+    qing zheng que tian xie piao ju ri qi
+    请正确填写票据日期!
+    请正确填写票据。
+066 mo xiang qi xing li bie
+    wo xiang qu zhao li bei
+    我想去找李背。
+    我想去找李立。
+067 lai lai lai sa di fang xian le e
+    lai zai na li fang jian liao
+    来在那里房间了!
+    我们在什么地方集合？
+068 wu niu luo si cang lei gui rang le
+    wo qu suan chang lai gan cai le
+    我去,算常来,干菜了。
+    我把六扇窗都关上了。
+069 nong dei liao liao zang gang lu
+    ni dao di tou chang shui
+    你到底答应不答应他。
+    你别装聋作哑！
+070 le liang ni ji qia gou ye tang
+    liang ning qian chi guo yi ci
+    如果钱吃过一次。
+    两年前吃过一次。
+071 shi ke kua liao hou pi nu qiao le zhe zou
+    zi qi kuai kai bu neng chi zhuang
+    自己会开,不能吃装。
+    水快开了，喝了茶再走。
+072 wa hei luo sang ping guo ya ji li yi ge hai pa di si
+    huai hai lu de shang pin gao ya jian wei you hai bai te shai
+    淮海路德商品高亚间有,有还有海百度。
+    淮海路的商品高雅前卫，有海派特色。
+073 luo di dang zong ga sai luo bi bu luo wu pa luo di ya feng guang deng deng
+    l ⁇  di ti zi qi pi lao dian yan hu pi wo hao
+    a.我上个月借了他三百块钱。
+    绿地有假山、瀑布、湖泊和田园风光等。
+074 ge zong ying zi bi gan zi gan ma you gan ma ma
+    zhe chong yang te di qian fu mo mai ma
+    这是我的钱么?。
+    这种样式的钱包你们有卖吗？
+075 hao liao nong du qi hao le
+    hao liao ni duo qian le
+    你了你多钱了!
+    好吧，拿去吧。
+076 bao bei mo yi long
+    bao bei hao ai ni
+    宝贝好爱你
+    宝贝 好爱你！
+077 wo xin li zhi you nong ma
+    wo di xin li zhi you ni ma
+    我的心里只有你妈
+    我的心里只有你 麽！
+078 tun qing shang liao wo yao bei le yi wei ni yi fu liao
+    wo shi qing chu bie nao le sa you yi yi ma
+    我是清楚别闹了撒有意义?
+    我是清楚 别闹了撒 有意义吗
+079 ai kui wa yi chi kai wo jiu shang mao bing
+    ai kan ba yi chi kai wo jiu bing
+    还有吧。。
+    唉 看吧 一离开我就病
+080 yong ni gao gang huo zhe xie shu shu le ba
+    yao ying yu zhe xie ke yi suan shu ma
+    要英语这些,可以算书吗?
+    要别人说好才算数的吧！
+081 gu jiao lie ou li xiang yao xiong guang lao zhai
+    gan jue ni jia you shi jian hen duan
+    感觉 你加油时间很短
+    恩 感觉在家的时间很短
+082 you neng gang gang na zhong guo dong wo nan ren le
+    yao zen me yue ne zhong wu tong xue zen me le
+    要怎么说中午同学怎么了
+    还有你刚说你们中学同学怎么了
+083 tun dong li xiang le di di dao de le ba
+    wo dao jia liao di di zhi dao le mei you
+    我到家了的事!知道了没有
+    我到家了 第第知道了没有
+084 jiu ti yi zi you xie mi mang
+    jiu ti xian zai you xie mi mang
+    就是现在有些迷忙
+    就是现在有些迷盲
+085 kong bo min zhou wei min sou jie shui liao nong
+    shui ba wan an ming tian zai sao rao ni
+    睡吧晚安,明天在告诉你!
+    睡吧 晚安！明天再骚扰你
+086 cong hao xiang yi ya li xiao hu chu jiu wei qu le
+    cong xiao xin yi wan shang di huo che jiu hui qu le
+    从小一晚上的火车就回去了
+    中午她晚上的火车就回去了
+087 zou liao wo gang gang lai huan da you
+    dao le wo gang zai xi zao
+    到了我刚在洗澡
+    到了我刚才在洗澡
+088 si le ti nong nai hai xi zhang e
+    shi de lou ni zai xian e
+    是的喽,你在线啊!
+    是不是你在线哦
+089 nong hao lai huan mang suo mao zi
+    ni hao zai mang shen me ne
+    你好在忙什么呢?
+    你好 在忙什么呐
+090 ji ri wo zhen di lao xiang bang nong jie hun le
+    qi shi wo zhen di hen xiang gen ni jie hun a
+    其实我真的很想跟你结婚啊!
+    其实我真的很想跟你结婚啊！
+091 yang yang bai yi fen xin cuo te wa chu nong yin fu
+    yang xiang beng shi bu xin zui dui pa ni fa xing fu
+    阳想都不是不信罪吧!你发幸福。
+    洋洋请把那封信撕了吧！祝你幸福
+092 na gua nong wei de ba xiang zhu
+    nan guai ni kuai xiang zhe wan ren
+    男乖乖你会玩!
+    难怪你会想着玩人
+093 wo lao xiang liao lai wo ying gei nai nai cheng hu nong jia jia ne
+    wo hen xiang zai wo ying gai zen me cheng hu ni jie ni jie shao
+    我很想在我应该怎么称呼你介绍
+    我也非常想呀 那我应该怎么称呼你姐呢
+094 yi si jing jie hun you xiao zhu liao
+    tuo yi jing jie hun you xiao hai
+    他已经结婚有小孩
+    她已经结婚有小孩
+095 o wo hai mei ti qi liao
+    o wo ye ting qi liao
+    哦,我也挺气了!
+    哦我也每天吃呢
+096 kua he sheng qi zi yu
+    kuai qu shen me qi zi ran
+    快去什么气自然
+    快 呵 顺其自然
+097 gan ma nong min ni zhi wei le de wen guang gu ji jiu yi de hei liao
+    ne ni ming ning hui lai di shi hou gu ji dian jiu hui jiao
+    那你明白吗的时候估计点就回家
+    那你明年回来的时候估计会叫了
+098 ning ni zai jiu niang wu bao bei nong long hou la
+    ren xian zai jiu lai rang wo teng ni ai ni hao ma
+    那现在就来让我疼你爱你好吗?
+    萍现在就来让我疼你爱你好吗
+099 bao bao chen dong liao pa ju sheng suo xiong kuang pa sai yi e
+    bao bao zheng ni bu xi que wo zong ni cong xing ma
+    保证你不喜欢我爱你,从行吗?
+    宝贝踢你了吗 全身什么时侯难受的
+100 dai ying guo zhang zi ti hao ba
+    da ying jie zhang ti hao ma
+    大姐姐张爱好吗?
+    答应我件事好不
+101 wo shuo de hou yang si liao ma long xiang shu shu jiu xiao de le
+    wo zhi dao hao xiang shi wang ni xiang cha dian jiu zhi dao le
+    我知道好像是网,你想差点就知道了!
+    不知道 好像是 网上查下就知道了
+102 he he nai nu li jiu hao
+    he he zen me nu li jiu hao
+    呵呵怎么努力就好
+    呵呵你努力就好
+103 wo kao liao duo shao fen
+    wo kao dao le sha fa
+    我考到了沙发
+    我考多少分 噢
+104 nong kui dang di wu man meng si lai
+    ni kan dian shi ma yao dong xi lai
+    你看电视吗,要东西呢
+    你可以打电话问问他们
+105 jiu hao ya wei cai zhu san liao
+    jiu hao wan an zuo shen me le
+    就好好 晚安做什么了
+    吃完饭都干嘛了
+106 ge zhong yao qing cong lai me cha de gui
+    zhei zhong yao qing mo cha shou guo ai
+    这种邀请检查过爱
+    这种邀请没接受过哎！
+107 yao bu shi nong bu yao lai liao wo song long
+    yao bu ni bu lai e wo song ni
+    要不,你不来啊!
+    要不你不来啊我送你
+108 tan wo mo lei le deng ji qi
+    deng wo wo wo zai deng ji
+    等我我我在等机
+    等我我在等机子
+109 bu na me gao xing xiang yan nong gang wen le wo zhen ge yi le
+    pi zen me gao xing xiang ni yue fu zhi yu wo shi zen me
+    屁怎么高兴想你,说岳父只噢?
+    切 怕你不高兴 想跟你说会呢我真会了
+110 wei shang yi zhe me kai ji
+    bie sheng yi zai ting bu hui
+    别生意再挺不回
+    为何一直不开机
+111 lao gong ming chao shi ni di zhong lai le an zhang bang de
+    lao gong meng tian shi er dian zai guang chang xian
+    老王跟老张一样高。
+    老公明天十二点在广场见
+112 ni bang wo fou nian bei jing you sha zi die
+    ye hu wo de bao bei jing you shen me shi
+    业和我的宝贝有什么事
+    星期五下午备勤有什么事
+113 na neng huo gang zi mu bei ne
+    za le hao shuo shi ma fan ne
+    闹了好说是麻烦呢
+    怎么能说是麻烦呢？
+114 yin wei nao zi gang xin ding ye shi bi wo zhong yao
+    yin wei ni zi ji de xin qing hai shi bi wo di zhong yao
+    因为你自己的心情还是比我重要
+    因为你自己的心情还是比我的重要
+115 wu mo yue fei zheng jiu ti yao qi lai
+    wo fu you fan zheng jiu dei qi lai
+    我翻有饭。
+    我不管 反正就得起来！
+116 hao ya wu tao xiong bang wo kai
+    hao xia wo da ni ji wo kai
+    好下我叫你给我开。
+    好呀，以后你给我开。
+117 lun gong gua gua lao kong wo ting yi wu mei yao liao
+    lao gong guai guai lao gong bu ting hua wo bu yao le
+    老公乖乖老公。。
+    老公乖乖！老公不听话我不要了！
+118 meng cuo jin hao ma si gan yi ji pa
+    mo cuo jin hao ma shi du sheng qi ma
+    没错劲好吗?是吗!
+    鹏，最近好吗？暑假回家吗？
+119 wo lai yao cha jia wo de qiang ci liao
+    bu xing da bu jie bu xing le
+    不行,打不接不行了。
+    我在一个姐姐家住了
+120 geng bu neng zi yu yi qu geng xiu xi
+    nuo ni zhu yi an quan hu xiu xi
+    那你注意安全和休息
+    那你注意安全和休息。
+121 liang chong di dou fu ju wu ye gang xiang
+    liang ge xiao shi dou bu li shi wo yi yue xiang
+    两个小时都不理解,我一直想
+    两个小时都不理视我，还说想？
+122 ju cun nong yu liang wu wu er wu hao yu liang wo si qia
+    jiu suan ni yuan liang wo wo wo wo ye bu neng yuan liang zi ji
+    就算你原谅我,我也也不能原谅自己。
+    就算你原谅我，我也不能原谅自己。
+123 an xin wu ken ding dei ding jia le
+    ye xu ken ding shi zui jin di
+    也许肯定是最近的
+    俺媳妇肯定是最棒的！
+124 nie dei kuai da feng wo fu wu dao li xiang ni
+    wo men ke neng chu fu hui wo dao jia
+    我们可能出点我到家。
+    外面刮大风，我怕，我到家了
+125 xu nuo sen wo gen an mei hao
+    xu ni shou bu gou hua di hao
+    徐你受不了好的好!
+    愿你生活更美好！
+126 gang da hou ba ta ji di wu le yuan gen yu
+    gang xian kuan ba tai ji dian hua le yi dian
+    刚等完巴,自己电话了一点!
+    刚洗好，我们这也下了一点雨
+127 kun gao e tun lao ju e
+    shui jiao a wo hao jue e
+    睡觉啊!啊!
+    睡觉啊，我好困啊
+128 bei pi mo nong
+    bie bi wo ai ni
+    别比我爱你!
+    宝贝 好爱你！
+129 mo xin li zai xu long wa
+    wo de xin li zhi ni mo
+    我的心一直你么
+    我的心里只有你 麽！
+130 mu qin shang a ba wei liao yi ge yi ni wa wa
+    wo jin tian wan hui le na er you ni ba
+    我今天玩回了哪儿吧!
+    我是清楚 别闹了撒 有意义吗
+131 ai ke kuan ye li tian wu jiu shi sang luo bing
+    ai kan ba yi li kai wo jiu shi hen kun
+    唉!看我也离开我就是很困
+    唉 看吧 一离开我就病
+132 you nin ga ga hao jie shi su wo pa
+    you ren jia ren jia suan cuo ma
+    有人家人好吗
+    要别人说好才算数的吧！
+133 ben ku jiu liao yu chi xiang hu rong guang luo dai
+    en hang jiu zai jia you shi jian hen duan
+    恩行就在家有时间很短
+    恩 感觉在家的时间很短
+134 bei yun nong gang gang gan ma zong wo dong wo na neng e
+    huan yun ni gang yue ni men zhong xue tong xue zen me le
+    还没刚说,刚说,门中学同学怎么了
+    还有你刚说你们中学同学怎么了
+135 mo dou yu chi xiang liao di di xiu de lei wa
+    wo dao jia liao di di zhi dao le mei you
+    我到家了的事知道了没有
+    我到家了 第第知道了没有
+136 jiu zi yi ren yong yuan mi mang
+    jiu ti xian zai yong yuan mi mang
+    就是现在永远迷忙
+    就是现在有些迷盲
+137 kun la min zhou wei min zhou zhi xie shuo zhuo nong
+    shui ba wan an ming tian zai sao rao ni
+    睡吧 晚安明天呢!
+    睡吧 晚安！明天再骚扰你
+138 zong lang reng si ya li xiang la hu cu jiu wei qu liao
+    zhong wu jie wan shang di huo che jiu hui qu liao
+    中午节晚上的火车就回去了
+    中午她晚上的火车就回去了
+139 zhu liao wu gang gang liao hei da yu
+    zuo bu xia wo xia shuo liao yi ge
+    做个好梦。
+    到了我刚才在洗澡
+140 si wang zi nong lai hei si ge di a
+    shi bu shi ni zai xian o
+    是不是 你在线哦。
+    是不是你在线哦
+141 nong kai liao fu mang sha fa zi die a
+    ni kai le fu mang shen me e
+    你开了 不忙什么啊!
+    你好 在忙什么呐
+142 ji zhang nu zeng a luo xiang bang dong jie hun a
+    qi shi wo zhen de hen xiang gen ni jie hun a
+    其实我真的很想跟你结婚啊!
+    其实我真的很想跟你结婚啊！
+143 yang yang nuo feng xin shi de wa zong nong yin feng
+    yang qing ba ne bian xin du ti tai bai fang
+    杨请吧!你变心都是明白。
+    洋洋请把那封信撕了吧！祝你幸福
+144 nai gua nu wei yao ba xiang zhu
+    nan guai guai ni kuai bu xiang ren
+    男乖乖你会不会
+    难怪你会想着玩人
+145 mu e lao xiang a gen ben wu ying gai na neng ceng hu nong jia jia ni
+    wo yi fei chang xiang ya nai wo ying gai zen me cheng hu ni jie ne
+    我也非常想呀!我应该怎么称呼你介绍呢
+    我也非常想呀 那我应该怎么称呼你姐呢
+146 jue yi jing jia hun wei shou ning le
+    jiao yi jing jie hun you xiao hai
+    脚已经结婚,有小孩。
+    她已经结婚有小孩
+147 ou wu e mei ti qi liao
+    o wo yi tian qi de
+    哦。
+    哦我也每天吃呢
+148 kua sha ren ji zi
+    kuai shen me cheng ji zi
+    快什么成绩。
+    快 呵 顺其自然
+149 ge meng nong mi ni zi wei lei hu long guang gu ji jiu wei di hei liao
+    na ni meng ning hui lai de shi hou gu ji hui jiao liao
+    那你梦宁回来的时候估计回了
+    那你明年回来的时候估计会叫了
+150 bing si yue tui niang nu bu bei nong nong hou gui la
+    ping jun qing ni bu yao ni pei ni hao hao ma
+    平均请你不要你陪你好吗?
+    萍现在就来让我疼你爱你好吗
+151 bi bei yi dong liao wa xi sheng sha chong guang a se shu la
+    bao bei yi ni zai wo juan shen me shi hou nan shou de
+    宝贝在你在我唐什么时候难受的
+    宝贝踢你了吗 全身什么时侯难受的
+152 tan ying mo zang zi ti hou pa
+    da ying wo mou shi hao bu
+    大是我坏事好不好?
+    答应我件事好不
+153 wan xiao di hao yang zi meng hang lang shu ru jiu she de le
+    bu zhi dao hao xiang shi wang shang cha xia jiu zhi dao le
+    不知道好像是往上叉下就知道了!
+    不知道 好像是 网上查下就知道了
+154 ha ha nong nu li dui hou
+    he he ni nu li jiu hao
+    呵呵 你努力就好!
+    呵呵你努力就好
+155 wu kou le du shou fen ou
+    wo kao duo shao fen yu
+    我是多少分雨。
+    我考多少分 噢
+156 nong yu dang li wu meng men yu e
+    ni dao da dian hua wen wen ba
+    你到打电话问问吧!
+    你可以打电话问问他们
+157 que hou ya wei shui zhu si liao
+    qi hao mi fan dou zi le
+    祝你米饭都自动
+    吃完饭都干嘛了
+158 ge zhong yao qing song lai ma zhe ge gu mei
+    zhei chong yao qing mei mu xia che guo
+    这虫,邀请没目下车过
+    这种邀请没接受过哎！
+159 yong wan si nong wa lei liao wu song nong
+    yao bu ni fu lai e wo song ni
+    要不你不来啊!我送你
+    要不你不来啊我送你
+160 deng wu wu lao lao deng wei qi
+    deng wo wo wo yi ding hui gu
+    等我我也一定会睡!
+    等我我在等机子
+161 pi nong meng liao gao xing xiang tuo nong gang wei e le wu zen me wei le
+    pi yu ni wen xin xiang he ni shui kuai ni shi wo yan liao
+    呵呵,你问心想和你睡快,你是我累了!
+    切 怕你不高兴 想跟你说会呢我真会了
+162 wei sa xie san wa kai ji
+    wei shen me dou fu bu kai ji
+    为什么都不开机
+    为何一直不开机
+163 luo gong min re sai ni di zhong le kuang lang pang di
+    lao gong zuo meng tian dian nao dian fen shui
+    老公明天电脑点分水。
+    老公明天十二点在广场见
+164 li ba wu wu bu yong jie bei jing you sha zi qi
+    xing qi wu xia wu yi bei qi wei shen me shi
+    星期五,下午。
+    星期五下午备勤有什么事
+165 na neng huo gang zi mu wei ni
+    zen me neng shuo shi ma fan ne
+    怎么能说是麻烦呢?
+    怎么能说是麻烦呢？
+166 yin wei nong si ga hu xin jing lei zi pi mo wo zong you
+    yin wei ni zi qi xin qing hai shi pang pi wo di zhong yao
+    因为你自己吃饭还是胖啤酒?
+    因为你自己的心情还是比我的重要
+167 wu yu gui pei zheng jiu shi yao qi lai
+    wo bu guan fan zheng jiu dei qi lai
+    我不管。。
+    我不管 反正就得起来！
+168 pao ya wu shang long bang tun
+    hao ya wo sheng ni gei wo
+    好的我生你给我
+    好呀，以后你给我开。
+169 luo gong gu gu lao gong ba yi nie wu mu wai you ou liao
+    lao gong guai guai lao gong bu hui hua wo bu yao di
+    老公乖乖,老公不回我不要的!
+    老公乖乖！老公不听话我不要了！
+170 bang zui jin hou pa shi tai wei ji ba
+    peng cuo jin hao ma shu jia hui jie ma
+    a。?。。
+    鹏，最近好吗？暑假回家吗？
+171 mo lai lai jia jia ao li xiang deng le
+    wo lai liao xu jia hui fu hui da
+    我来了是回家回答
+    我在一个姐姐家住了
+172 gen ben nong zi yi e yi bang xu xia
+    nuo ni zhu yi an quan huo xu he
+    那你注意安全,或许呵呵
+    那你注意安全和休息。
+173 liang ge zhong di shui ba che wu gang xiang
+    liang ge xiao shi dou bu li shi wo fu yue xiang
+    两个小时都不理解,我说。
+    两个小时都不理视我，还说想？
+174 jiu sai nong nv liang mu mu wa wang hou ru liang mu zi ga
+    jiu suan ni yuan liang wo wo bu neng yuan liang zi qi wo shi
+    就算你原谅我,我不能原谅自己其实
+    就算你原谅我，我也不能原谅自己。
+175 yi luo bu ken lin zi ding jia liao
+    xian zai po ken ding shi zui liao
+    现在常肯定了!
+    俺媳妇肯定是最棒的！
+176 na de gua du feng wu pu mu dou yu li xiang liao
+    wai mian gua da feng wo pa wo dao jia le
+    里面挂大风,我怕我到家了
+    外面刮大风，我怕，我到家了
+177 ni nong sen wo geng gan mei hou
+    yuan ni sheng guo geng mei kou zuo hao
+    给你生活更美口做好!
+    愿你生活更美好！
+178 gang da hao a la ge la wu le yi ning yu
+    gang xian hao wo men zhei yi xia wo men da jia ren
+    刚现好我们一下我们打家人
+    刚洗好，我们这也下了一点雨
+179 kun gong e mu lou ju a
+    shui jiao a wo hao jue xia
+    睡了吗。。
+    睡觉啊，我好困啊
+180 mei nv you de fu liang zi wu xue ji
+    mei n ⁇  hao fa liang ge che wo xuan yi sha sa
+    每年。
+    美女号发两个撤我喧一哈撒
+181 ma nong shang kuang wei lai
+    ma ma ni sheng hui lai
+    妈妈,你回来!
+    妈妈，你什么时候回家？
+182 wei sha tai lai gei wu ke de yong xu ga guang ne
+    wei shen me ni zai wo zhe yong yuan zhe me guang
+    为什么,你在我这永远这么光
+    为什么你在我这永远这么横？
+183 nai wo zhe gang zhe wu a chi liao ma
+    ni bu shi shuo hua le e
+    你不是说话了啊!
+    你不是说，电话环了马？
+184 yao bu yao xiang hun yao me nong xi kun
+    yao bu wan kong jian hai shi ni xian shui jiao
+    要不要空间还是你先睡觉!
+    还不想睡呢，要不你先睡吧
+185 zhi shi wo gong zuo bu hao
+    zhi shi wo de gong zuo bu hao
+    只是我的工作不好!
+    只是我的工作不好！
+186 wo ting xia gu na dei yi duo
+    wo ting shuo guo ni men yi kuai zuo dao
+    我听说过你们会做到。
+    我听说过，你们一筷儿。
+187 gao wen mo ya ke ji neng xiang yao jie qiang ma
+    shuo hua e zhe jiu shi ni xiang yao di jie guo ma
+    说话啊,那就是你想要的结果吗?
+    说话啊？这就是你想要的结果嘛？
+188 bao bei zuo wo hao ma wu gui
+    bao bei zuo gan hao meng ma an gui
+    宝贝,做个好梦。
+    宝贝做个好梦晚安
+189 guo nan ma ma shang liang si liao nong mu li gui
+    ji ni ma ma shang liang zhu ni jie dian hua
+    给你妈妈上两住你接电话
+    给你妈妈商量住你家吧
+190 diao wo gang sha men nong you pa bu jia zhuo
+    dao bu xiang yue ni ma bu yao zhao jie jue
+    到不想说你妈不要找解决
+    让我说什么阿？你又不给我介绍
+191 nong kuang wa bu yong bei wu liao
+    ni shui pa bu yong pei wo lei
+    你睡吧,不用陪我累
+    你睡吧，不用陪我。
+192 ha ha ha yi ba bu qin
+    ha ha ha chi bu rang wo qin
+    哈哈。
+    哈哈哈哈 她不让我亲！
+193 jin zhou de zi ji nv le luo mang fou gao dong gang liao
+    jin tian ti ru gai hao kan bu gao bu gao su ni liao
+    今天是谁,该好看,不高兴你了
+    没有，今天桌子满了，忙不和你说了。
+194 na neng wei zhuo diao wu qin lve lao bu shou wei qu ne
+    zen me kuai ran dao wo qin ai de lao po xia ni
+    怎么快然到我亲爱的老婆呀!
+    怎么会然我亲爱的老婆受委屈啊！
+195 xiao liu nong kun gou le ba wu luo xiang nuo
+    xiao liu shui jiao le ma wo hao xiang ni
+    小刘睡觉了。
+    小刘 睡觉了吗？我好想你！
+196 ju ji yao bang zhao mang ma
+    gan jue yao bu shi meng ma
+    感觉不是梦吗?
+    全全哥哥 帮个忙吧
+197 nong xiao de liao nong dong suo xiao wang you long xiao de sha la
+    ni zhi dao ne ni dong sa hai zi mi zhi dao sa la
+    你知道呢!你动撒孩子迷知道撒啦!
+    祢知道乐？祢懂撒？孩子 祢知道撒啦？
+198 lu na er li deng wo hui dao shang le
+    ni zai nai hui xue shang le
+    a
+    你在哪呢？回宿舍了？
+199 hei qing nu wa li de nuo shi qiao bo qiu
+    hei qing ni bu zai tu di zhu fu ju pa
+    还不不在徒弟祝福吧!
+    嗨，亲你那你最受不了？
+200 wo fou du ni xiu xi le ba hai kai
+    wo bu duo ren ai xiu xi le ba ma shang huan
+    我不承认爱休息了吧,马上换!
+    老婆大人，安歇了没哈，呵呵！
+201 ni men hai shi pa ri lao jue long le li xiang ga xi tu ning
+    ne hai shi fou kun ni zai jia na me duo ren
+    呢,还是不困你在家那么多人
+    那还是不困，你在家那么多人。
+202 xiao wo xiao di neng fou lai du zou ya
+    xiao fu zhi dao ni fa lai duo shao
+    我不知道你发来多少
+    知不知道你发了多少个？
+203 gang fu gang wo kong wo zai
+    gang fu shui wo shui bu zhao
+    刚才说 我睡不着。
+    说啊不说我睡不着
+204 dong xi bei xiang wo jiu gu qi
+    ni xian wan wo jiu guo qu
+    你先玩我就过去。
+    你先玩 我就过去
+205 ma nuo ye wu e wa wei di
+    me ni hua fu hui da ne
+    噢,你话还不打呢
+    问你话还回答呢？
+206 wo li xiang na neng lai
+    jia li zen me yang
+    家里怎么样
+    家里，怎么了？。。
+207 e li gei shui qu dong feng wang luo
+    wo men san qiao da tong li pang
+    我们用什么车从南京。。
+    还在三桥这呢？去东方王朝
+208 ge pi yu e me dai e lu nai da ma qiang gu
+    zhe bian yu yi ting da de ni fu me shui
+    这便,所以挺大的,你不睡!
+    这边雨，也挺大的你咋还么睡？
+209 xu yao nin san wang ming a zai deng wo qi
+    hai sheng bing yi zhe wen hou zai deng wo qu
+    海生,所以这问候在等我去。
+    孩生病也折腾不起
+210 zi gan wu yao sui wu mo
+    ti di wo yao suan wu wu
+    是的我要算呜呜
+    猪说话要算话吧
+211 zhi you nong huo wo na neng xie li shi
+    zhi yao ni hao xue jia yi dian
+    只要好好学加一点!
+    只要你好我怎样都行
+212 mei nv er deng fen liang ge ya mu xue zhi
+    en mei n ⁇  wo fen liang ge xiao shi wo xuan ze
+    恩没女朋友两个小时我选择
+    美女号发两个撤我喧一哈撒
+213 ma nong san deng guang yi ying
+    ma ni shen me shi hou yi ying
+    妈妈什么时候答应
+    妈妈，你什么时候回家？
+214 wei sen nong le dian wu ge yong wei gao wang le
+    wei shen me ni zai wo zhe yong yuan zhe me guang
+    为什么你在我这永远这么光
+    为什么你在我这永远这么横？
+215 nong wa zi gang de wu gui deng le ma
+    ni bu shi yue fou guai wo deng le ma
+    你不是说说我等了吗
+    你不是说，电话环了马？
+216 ai wa xiang hun you mei dong xi kun la
+    hai fu bu xiang shui ni yao bu ni xian shui pa
+    还不不想睡,你要给你睡吧!
+    还不想睡呢，要不你先睡吧
+217 zen me gu mo gong zou le hou
+    zhi shi mo gong zuo di hao
+    只是看完工作的好!
+    只是我的工作不好！
+218 wu ting se gu yi zi ye duo a
+    wo ting shuo guo tuo yi zhi dao
+    a。。
+    我听说过，你们一筷儿。
+219 gang ai mo ya ge jiu nong xiang yong jia gu wa
+    shuo hua e zhe jiu shi ni xiang yao di jie guo ma
+    说话啊,这就是你想要的结果吗?
+    说话啊？这就是你想要的结果嘛？
+220 bo bei zi yun hou mang wei wu
+    bao bei zuo gan hao meng wan an
+    宝贝,做个好梦。
+    宝贝做个好梦晚安
+221 guo gen men ma ma shang liang deng liao nuo wo li wa
+    ji wo ma ma shang liang chu ni quan dao jia
+    给我妈妈上两个,你知道。
+    给你妈妈商量住你家吧
+222 niang wu gang sa wo mo ri e nong nv wang bang wo jia rou
+    rang wo shui shen me wo dui e ni yuan wu fu gei wo jue
+    让我说什么,我对啊?你愿意给我觉
+    让我说什么阿？你又不给我介绍
+223 nong kuang a wa yong bei wu liao
+    ni shui ba bu yong pei wo
+    你睡吧 不用陪我
+    你睡吧，不用陪我。
+224 ha ha ha ha yi gui ban gong qing
+    ha ha ha ha chi guan bu rang wo qing
+    哈哈。。
+    哈哈哈哈 她不让我亲！
+225 ma jin zao di zi zei ru le luo mang bao fa guo long gang le
+    mei you jin tian zhuo zi man le mang bu he ni shui le
+    没有,今天桌子我了,忙不和你睡了!
+    没有，今天桌子满了，忙不和你说了。
+226 na neng wei de liao niang wu qin ai a luo bo ze wei cheng ni
+    zen me hui le rang wo qin ai de lao po xian ni
+    怎么回了让我亲爱的老婆爱你
+    怎么会然我亲爱的老婆受委屈啊！
+227 shui lv yu nong kun guo le pa mu lou xiang dong a
+    du l ⁇  ni shui le ma wo hao xiang ni
+    都睡不着,睡了吗吗?我想你!
+    小刘 睡觉了吗？我好想你！
+228 xin ji e gu bang le mang gui
+    duan shen a wo ge bang mang ma
+    短信。
+    全全哥哥 帮个忙吧
+229 nong xiao di la nong dong sa xiao pang yun nong xiao di sa la
+    ni zhi dao le ni ba shen me xiao ni zhi dao ma
+    你知道你了,你爸什么地方你知道吗?
+    祢知道乐？祢懂撒？孩子 祢知道撒啦？
+230 dong la a li wei se se la
+    ni zai na li wei shen me
+    你在那里为什么
+    你在哪呢？回宿舍了？
+231 hei qing nong e li pan nong jiu qiao ba shou
+    hei qing ni de li ni jiu bie xiao
+    黑青你的理你就笑!
+    嗨，亲你那你最受不了？
+232 luo bo zhe nin xiu xi le pa sha hao
+    lao po gan xin ren xiu xi ba me hao ma
+    老婆,相信人休息吧!
+    老婆大人，安歇了没哈，呵呵！
+233 nong e shi zai shi lao ju liao long le you li xiang gai shi du ren
+    ni de shu shi zai ji le ni zai xiang na me duo ren
+    你的书是在给你再想那么多人
+    那还是不困，你在家那么多人。
+234 shou ba shou ding long fa le die sao ya
+    zhi dao ni fa lai gan shen me
+    那到你多来干什么?
+    知不知道你发了多少个？
+235 gang a ba gang wu hun gui zi
+    yue a fou shuo wo shui fu zhao
+    以后不说我睡不着!
+    说啊不说我睡不着
+236 long xi pa shang wu jiu gu qi
+    ni xian wan wo di qiu gao qi
+    a。
+    你先玩 我就过去
+237 meng dong yi wu ya ba yi de
+    wen ni xian zai bu yi qi
+    问你现在不在一起!
+    问你话还回答呢？
+238 ou li xiang na neng e
+    jia li zen me le
+    家里怎么了
+    家里，怎么了？。。
+239 yi liao ge sai jiu ge lan di qu dong fang wang liu
+    ta zai lu shang gan di fang zai huo dong wang
+    他在路上干地方在活动网
+    还在三桥这呢？去东方王朝
+240 ke bi yu er mo du e nong na neng kun guo
+    zhe bian yu wo ting da di ni zha shui jiao
+    这边是我挺打的你睡觉
+    这边雨，也挺大的你咋还么睡？
+241 xiu ning sang mao bing e se wen wa ji
+    en zuo sheng bing liao wen ti bu shi bu shi
+    恩做生意了问题不是
+    孩生病也折腾不起
+242 zi gang ai wu wei si yue wu pa
+    zhu shuo hua yao suan hua pa
+    猪说话,晚安。
+    猪说话要算话吧
+243 ze wei nong hou wu na neng zei lai sui
+    zhi yao ni hao wo zen me du fu le
+    只要你好我怎么幸福了
+    只要你好我怎样都行
